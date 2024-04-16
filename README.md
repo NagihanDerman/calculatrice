@@ -14,3 +14,4 @@ Cliquez sur le bouton "Calculer" pour voir le résultat.
 Pour effacer le calcul, cliquez sur le bouton "AC".
 
 ## Gif
+<img src="calculatrice.gif"/>
